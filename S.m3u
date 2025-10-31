@@ -2,7 +2,7 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,AVERAGE-BANDWIDTH=6191434,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2"
-http://iptv888.aibot408.qzz.io/stream.php?channel=api%2Fs%3Fid%3DSensasi&expiry=1761871509&token=e772e4dd49cd7deb8bbfa4dae805e8b9873c156fc4728746b04be56b76eb32ec
+https://smtv.aibot408.qzz.io/api/s?id=Sensasi
 
 
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
