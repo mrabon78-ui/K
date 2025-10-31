@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1761861625
+#EXTINF:10.000000,
+https://smt.858.qzz.io/Smart.php?id=Sensasi&ts=220334_1761861625.ts
+#EXTINF:10.000000,
+https://smt.858.qzz.io/Smart.php?id=Sensasi&ts=220344_1761861626.ts
+#EXTINF:10.000000,
+https://smt.858.qzz.io/Smart.php?id=Sensasi&ts=220354_1761861627.ts
+#EXTINF:10.000000,
+https://smt.858.qzz.io/Smart.php?id=Sensasi&ts=220404_1761861628.ts
+#EXTINF:10.000000,
+https://smt.858.qzz.io/Smart.php?id=Sensasi&ts=220414_1761861629.ts
+
