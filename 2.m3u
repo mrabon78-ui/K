@@ -5,11 +5,13 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1775976&extension=m3u8
+
 http://iptv888.aibot408.qzz.io/s.php?id=Assp2
 http://iptv888.aibot408.qzz.io/s.php?id=go_assp2
 
 
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1775976&extension=m3u8
+
 
 
 
