@@ -5,8 +5,9 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=50.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://8.iptv543.com:5051/smart.php?id=Assp1&token=885252
 http://iptv888.aibot408.qzz.io/s.php?id=Assp1
+http://8.iptv543.com:5051/smart.php?id=Assp1&token=885252
+
 
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1775975&extension=m3u8
 
