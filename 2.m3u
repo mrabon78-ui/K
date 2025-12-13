@@ -5,6 +5,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://iptv12k.com:35461/live/m251102669121032/111111/43908.m3u8
 https://smtd.aibot408.qzz.io/api/s?id=go_assp2
 https://smtd.aibot408.qzz.io/api/s?id=Assp2
 http://iptv888.aibot408.qzz.io/s.php?id=Assp2
