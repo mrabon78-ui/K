@@ -5,7 +5,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,FRAME-RATE=25.000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://nordicone.eu:2095/play/live.php?mac=10:27:BE:2f:41:97&stream=1841539&extension=m3u8
+https://smtd.aibot408.qzz.io/api/s?id=go_assp2
 https://smtd.aibot408.qzz.io/api/s?id=Assp2
 
 https://smtd.aibot408.qzz.io/api/s?id=Assp2
