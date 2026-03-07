@@ -2,10 +2,9 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,AVERAGE-BANDWIDTH=6191434,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2"
-http://142.171.7.225:5050/smart.php?id=Ria_backup&token=swqz
 http://protv.asia:8080/live/38831059986/226999/17.m3u8
 https://smt.goiptv.us.ci/Ria-0/playlist.m3u8
-
+http://142.171.7.225:5050/smart.php?id=Ria_backup&token=swqz
 https://nishisb.goiptv.us.ci/Ria_backup/playlist.m3u8?ct=20518&tsum=b16a36e3af0450fb9f7d71e9816b21a3&tid=m14560416
 
 http://link.zozotv.xyz:8080/live/faizal1998/zoz161/532.m3u8
