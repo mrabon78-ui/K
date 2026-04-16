@@ -5,9 +5,10 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,FRAME-RATE=50.000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/1163684.m3u8
 http://kusuixcb.kkihl.com/live/X87FMHHN/7X394BTP/1159.m3u8
 https://isurl.cc/Epl1
-http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/1163684.m3u8
+
 https://isurl.cc/Epl1kt
 http://ktpremium.site:2095/live/jin365/365365365/694537.m3u8
 
