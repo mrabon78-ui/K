@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-http://ktpremium.site:2095/live/itv263/9189/1038606.m3u8
 https://isurl.cc/Drmsgt
+http://ktpremium.site:2095/live/itv263/9189/1038606.m3u8
+
 http://iptv12k.com:35461/live/m241228343932464/111111/5997.m3u8
 
 
