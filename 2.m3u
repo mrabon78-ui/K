@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://load.perfecttv.net/rwt.m3u8?username=vip_rstlym75&password=leClni1n&channel=epl2
 http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/1163683.m3u8
+https://load.perfecttv.net/rwt.m3u8?username=vip_rstlym75&password=leClni1n&channel=epl2
+
 http://kusuixcb.kkihl.com/live/X87FMHHN/7X394BTP/1158.m3u8
 http://opplex.to:8080/live/azam1m/sohail1122/388698.m3u8
 
