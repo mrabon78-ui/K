@@ -2,7 +2,7 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=6200000,AVERAGE-BANDWIDTH=6191434,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2"
-https://virtual.anbox118.workers.dev/resolve?session=cb019d3e-d165-429d-88ad-beb760cbd73b&channel=Hub%20Premier%201%20HD&src=aHR0cHM6Ly90djEyMy5jYy5jZC9saXZlLnBocC8/Y2g9MzhhNmNjYzQxNTQ=
+https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/264396.m3u8
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
