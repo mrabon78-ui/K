@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+http://ktpremium.site:2095/live/jin365/365365365/694538.m3u8
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163986.m3u8
 http://opplextv.cyou:8080/live/nasir6160/nasir/388698.m3u8
 https://rd1.smt123.cc.cd/trams.php?path=/trams/1789/playlist.m3u8&token=tv123
