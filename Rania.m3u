@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,FRAME-RATE=25.000,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-http://balentv.xyz/live/KT814CGVGV8H3HC/R7fGnVn09A/1052406.m3u8
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163687.m3u8
+http://balentv.xyz/live/KT814CGVGV8H3HC/R7fGnVn09A/1052406.m3u8
+
 http://protv.asia:8080/live/38831059986/226999/26.m3u8
 http://opplextv.cyou:8080/live/nasir6160/nasir/388739.m3u8
 
